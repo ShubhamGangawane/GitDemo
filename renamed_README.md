@@ -30,3 +30,4 @@
 - Friday
 - Saturday
 - Sunday
+- india vs Aussie
